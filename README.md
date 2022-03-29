@@ -1,6 +1,6 @@
-# Dino-Game-JS
+#Projeto Dino Game em JavaScript
 
-Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS.
+Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS.<br>
 ![screenshot](example.png?raw=true "screenshot")
 
 # License
