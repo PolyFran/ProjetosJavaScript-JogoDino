@@ -1,7 +1,7 @@
-# Projeto Dino Game JS
+# Projeto Dino Game
 
-Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS
+Dino game for Digital Innovation One's lesson, using only JavaScript, HTML and CSS
 
 ![screenshot](example.png?raw=true "screenshot")
 
-# Create to Poliana Pereira
+Create to Poliana Pereira
